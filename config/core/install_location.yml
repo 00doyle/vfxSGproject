@@ -1,0 +1,10 @@
+# Shotgun Pipeline Toolkit configuration file
+# This file was automatically created by setup_project
+# This file reflects the paths in the primary pipeline
+# configuration defined for this project.
+
+Windows: ''
+Darwin: '/software/shotgun/project_configs/vfxTest4'
+Linux: '/software/shotgun/project_configs/vfxTest4'
+
+# End of file.
